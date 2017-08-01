@@ -98,7 +98,7 @@ See this video for one companies perspective on the interview: https://devpost.c
 
 ### Coding Challenges: What should I know?
 
-See these slides on [Technical Interview Best Practices](technical-interview-best-practices.pdf) for tips on acing the coding challenge. 
+See these slides on [Technical Interview Best Practices](tech-interview-best-practices.pdf) for tips on acing the coding challenge. 
 
 ## Resources
 
