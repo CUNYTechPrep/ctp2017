@@ -54,4 +54,12 @@ On Monday July 10, 2017, you will receive a HackerRank Quiz invite. Open that up
     + Make sure you have completed the Learn Git course and watched the ES2015 Crash Course videos.
 
 
+## Fall Assignments
+
+### Individual Project Proposal
+**Due September 05, 2017**
+
+See the proposal requirements here: [Individual Project Proposal guidelines](individual-project-proposal.md)
+
+
 
