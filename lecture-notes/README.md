@@ -10,4 +10,16 @@ Topics:
 - Review professional development program
 - Development Environment Setup ([Notes](orientation-dev-setup.md))
 
+## (August 29 - September 1) Week 1
+
+[Lecture Slides](lecture-01.pdf)
+
+Topics:
+
+- Fall Semester Overview
+- Review: ES6 & Eloquent JavaScript Problems
+- Designing Web Apps
+- Review: HTML & CSS
+- Intro to Bootstrap
+
 
