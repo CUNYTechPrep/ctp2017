@@ -14,6 +14,8 @@ Topics:
 
 [Lecture Slides](lecture-01.pdf)
 
+[Week 01 Projects repo](https://github.com/CUNYTechPrep/week-01-projects)
+
 Topics:
 
 - Fall Semester Overview
@@ -23,3 +25,13 @@ Topics:
 - Intro to Bootstrap
 
 
+## (September 5 - September 8) Week 2
+
+[Lecture Slides](lecture-02.pdf)
+
+[Week 02 Projects repo](https://github.com/CUNYTechPrep/week-02-projects)
+
+Topics:
+
+- Review ES6-Tutorial
+- React Intro
