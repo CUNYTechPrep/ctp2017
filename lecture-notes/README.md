@@ -35,3 +35,18 @@ Topics:
 
 - Review ES6-Tutorial
 - React Intro
+
+## (September 12 - September 15) Week 3
+
+[Lecture Slides 1](lecture-03.pdf)
+
+[Lecture Slides 2](lecture-03-react-fetch.pdf)
+
+Topics:
+
+- Client-Server Communication
+    + Parts of a URL
+    + Understanding HTTP Request-Response
+- More React (with ES6)
+- `fetch(...)` and Promises
+
