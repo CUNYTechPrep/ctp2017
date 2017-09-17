@@ -42,6 +42,8 @@ Topics:
 
 [Lecture Slides 2](lecture-03-react-fetch.pdf)
 
+[Week 03 Projects repo](https://github.com/CUNYTechPrep/week-03-projects)
+
 Topics:
 
 - Client-Server Communication
