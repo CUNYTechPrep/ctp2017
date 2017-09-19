@@ -52,3 +52,19 @@ Topics:
 - More React (with ES6)
 - `fetch(...)` and Promises
 
+## (September 19 - September 22) Week 4
+
+[Lecture Slides](lecture-04.pdf)
+
+[Week 04 Projects repo](https://github.com/CUNYTechPrep/week-04-projects)
+
+Topics:
+
+- Fullstack Review: Frontend vs Backend
+- About `npm`
+- Building a backend with Express.js
+    + Routing
+    + Route Parameters
+    + Query Parameters
+    + Body Parameters
+- RESTful Routing
