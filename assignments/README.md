@@ -62,4 +62,9 @@ On Monday July 10, 2017, you will receive a HackerRank Quiz invite. Open that up
 See the proposal requirements here: [Individual Project Proposal guidelines](individual-project-proposal.md)
 
 
+### Team Project Proposal
+**Due Week of September 26-29, 2017**
+
+See the team proposal requirements here: [Team Project Proposal guidelines](team-project-proposal.md)
+
 
