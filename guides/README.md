@@ -9,3 +9,5 @@
 - [Whiteboard Coding: Tech Interview Best Practices](tech-interview-best-practices.pdf)
 
 [Installing VirtualBox Guest Additions](installing-virtual-box-guest-additions.md)
+
+[Installing PostgreSQL](installing-postgresql.md)
