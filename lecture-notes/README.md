@@ -68,3 +68,16 @@ Topics:
     + Query Parameters
     + Body Parameters
 - RESTful Routing
+
+
+## (September 26 - September 29) Week 5
+
+[Lecture Slides](lecture-05.pdf)
+
+Topics:
+
+- SDLC
+- Structuring your Project (MVC)
+- Databases and Data Modeling
+- ORM's and Sequelize.js
+- Views and Templates
