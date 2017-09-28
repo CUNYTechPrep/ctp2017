@@ -12,6 +12,37 @@ brew update
 brew install postgresql
 ```
 
+### Starting up the server
+
+After installing postgres, you need to turn it on before you can begin using it. There are a few ways to do that, but the easiest is using the homebrew services manager. You can set that up as follows:
+
+First, install brew services if you don't already have it installed:
+
+```
+brew tap homebrew/services
+```
+
+Next, you can start, stop, or restart the postgres server with the following commands:
+
+For starting it up:
+
+```
+brew services start postgresql
+```
+
+For stopping the server:
+
+```
+brew services stop postgresql
+```
+
+To restart the server run:
+
+```
+brew services restart postgresql
+```
+
+
 ## Installing on Ubuntu 16.04
 
 On Ubuntu 16.04 you can install postgres with the following commands:
@@ -55,4 +86,5 @@ $ createdb -h localhost -U db_username MYAPPNAME_development
 ## Additional Resources
 
 * [Postgres Guide](http://postgresguide.com/)
-* [How to install and use Postgresql](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-16-04)
+* [How to install and use Postgresql on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-16-04)
+* [How to install Postgresql on the Mac](https://launchschool.com/blog/how-to-install-postgresql-on-a-mac)
