@@ -52,6 +52,20 @@ $ sudo apt-get update
 $ sudo apt-get install -y postgresql-9.5 postgresql-server-dev-9.5
 ```
 
+### Create your DB user
+
+On Ubuntu, you will have to make a postgresql user that matches your Ubuntu username.
+
+Run these commands **once**:
+
+```
+sudo su - postgres
+createuser -P -s -e UBUNTU_USERNAME
+exit
+```
+
+> After this one time step, you wont need the sudo commands to create more databases and database users.
+
 
 ## Creating Databases for my projects
 
