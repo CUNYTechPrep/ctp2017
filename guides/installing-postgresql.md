@@ -56,7 +56,8 @@ $ sudo apt-get install -y postgresql-9.5 postgresql-server-dev-9.5
 
 On Ubuntu, you will have to make a postgresql user that matches your Ubuntu username.
 
-Run these commands **once**:
+
+Run these commands **once** (replace `UBUNTU_USERNAME` with your own username):
 
 ```
 sudo su - postgres
