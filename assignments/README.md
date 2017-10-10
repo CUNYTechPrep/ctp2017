@@ -67,8 +67,8 @@ See the proposal requirements here: [Individual Project Proposal guidelines](ind
 
 See the team proposal requirements here: [Team Project Proposal guidelines](team-project-proposal.md)
 
-### Team Project Guidance and Design
+### Team Project Requirements and Design
 **Due date: (to be determined by your team mentor)**
 
-See the team guidance and design document here: [Team Project Guidance and Design](team-project-design.md)
+See the team requirements and design document here: [Team Project Requirements and Design](team-project-design.md)
 

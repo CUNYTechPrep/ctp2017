@@ -1,4 +1,4 @@
-# Team Project Guidance and Design
+# Team Project Requirements and Design
 
 ## Project Technical Requirements
 
