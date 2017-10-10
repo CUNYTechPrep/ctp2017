@@ -81,3 +81,15 @@ Topics:
 - Databases and Data Modeling
 - ORM's and Sequelize.js
 - Views and Templates
+
+## (October 3 - October 6) Week 6
+
+[Week 06 Projects repo](https://github.com/CUNYTechPrep/week-06-projects)
+
+Topics:
+
+- Using MVC app structure
+- Use Sequelize.js
+- How to design an app using: mockups, models, and routes
+
+
