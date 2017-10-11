@@ -72,3 +72,18 @@ See the team proposal requirements here: [Team Project Proposal guidelines](team
 
 See the team requirements and design document here: [Team Project Requirements and Design](team-project-design.md)
 
+### First Project Presentation
+**Presentations are during Week 9 classes: (10/24 - 10/27)**
+
+#### Presentation Guidelines
+
+- 10 minutes per team (5-7min _presentation_, 3-5min _Q&A_)
+- **All team members** must present at least one slide
+- See a presentation template here: [first_project_presentation_template.pdf](first_project_presentation_template.pdf)
+- Show a demo of _work in progress_ if you can
+
+#### What to submit
+
+- One presentation per team
+- Submit to your project mentor prior to week 9 class for feedback
+- You must be ready to present during Week 9 class
