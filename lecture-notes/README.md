@@ -74,6 +74,8 @@ Topics:
 
 [Lecture Slides](lecture-05.pdf)
 
+[Week 05 Projects repo](https://github.com/CUNYTechPrep/week-05-projects)
+
 Topics:
 
 - SDLC
@@ -91,5 +93,26 @@ Topics:
 - Using MVC app structure
 - Use Sequelize.js
 - How to design an app using: mockups, models, and routes
+
+## (October 10 - October 13) Week 7
+
+[Authentication Demo](https://github.com/CUNYTechPrep/auth-demo)
+
+[Microblog (complete app)](https://github.com/CUNYTechPrep/ctp-microblog)
+
+Topics:
+
+- Implementing Authentication
+- Sessions
+- Passport.js, Bcrypt
+
+## (October 17 - October 20) Week 8
+
+[Lecture Slides](lecture-08.pdf)
+
+Topics:
+
+- Testing (Jest)
+- Linting (ESLint)
 
 
