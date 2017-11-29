@@ -87,3 +87,17 @@ See the team requirements and design document here: [Team Project Requirements a
 - One presentation per team
 - Submit to your project mentor prior to week 9 class for feedback
 - You must be ready to present during Week 9 class
+
+### Second Project Presentation
+**Presentations are during Week 14 classes: (12/05 - 12/08)**
+
+This second project presentation is meant to help you with your presentations for demo night. The guidelines for this presentation are the following:
+
+1. I will impose a hard **5 minute time-limit** on presentations. (_Shorter is better_)
+2. Start with a **30 second pitch** to explain your project and grab the audiences interest in your project. 
+    - Some starting points for developing this pitch are: _What is the problem? Who is the audience? What is the solution proposed? Why should I care?_
+3. Follow your pitch with a guided demo
+    - **You are in control of the demo.** (Demo something that works.)
+    - It is OK for your project to be a _work in progress_ (or not done yet!).
+    - You can flesh out your demo's by adding images, forms, HTML elements, and data that are static and not yet implemented. This will fill your application pages, while giving the audience an idea of where the application is going in the future.
+4. You may create one or two slides to go over any design or technical issue you want to discuss, but this is not necessary. (You can build a slide deck or video backup of your application in-case the demo breaks.)
