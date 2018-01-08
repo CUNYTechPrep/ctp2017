@@ -9,7 +9,7 @@ All projects must be full stack applications that include a frontend and a backe
         * Use MVC app structure
     + Frontend: React.js and/or Handlebars
         * Must produce HTML/CSS as output
-        * Responsive desing
+        * Responsive design
         * JSON API is not enough
     + Database: Postgresql or MongoDB
     + Tests: Jest
