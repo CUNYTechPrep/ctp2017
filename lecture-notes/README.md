@@ -115,4 +115,37 @@ Topics:
 - Testing (Jest)
 - Linting (ESLint)
 
+## (October 24 - October 27) Week 9
 
+[First Project Presentations](https://github.com/CUNYTechPrep/ctp2017/tree/master/assignments#first-project-presentation)
+
+## (October 31 - November 3) Week 10
+
+[Lecture Slides](lecture-09.pdf)
+
+Topics:
+
+- Code Reviews
+- Software Engineering Best Practices
+- [Resource link](http://web.mit.edu/6.005/www/fa16/classes/04-code-review/)
+
+## (November 7 - November 10) Week 11
+
+_Lab Time_
+
+## (November 14 - November 17) Week 12
+
+_Lab Time_
+
+## (November 21 - November 24) THANKSGIVING BREAK
+
+
+## (November 28 - December 1) Week 13
+
+_Lab Time_
+
+## (December 5 - December 8) Week 14
+
+[Second Project Presentation](https://github.com/CUNYTechPrep/ctp2017/tree/master/assignments#second-project-presentation)
+
+## (December 13) DEMO NIGHT
